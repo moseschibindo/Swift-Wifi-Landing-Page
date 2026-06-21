@@ -1,0 +1,6 @@
+{
+  "name": "Swift WiFi",
+  "description": "A simple and attractive welcome page for Swift WiFi, showing connection status and fast internet access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
